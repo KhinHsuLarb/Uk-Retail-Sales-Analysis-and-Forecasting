@@ -1,4 +1,4 @@
-Sales analysis and forecasting  
+#Sales analysis and forecasting  
 Background 
 
 -Large Uk retail chains operate across regions and manage inventory efficiently, and sales performance can fluctuate due to seasonal shopping periods and macroeconomic conditions such as inflation and unemployment. 
@@ -94,3 +94,12 @@ Suggestions and recommendations
 -Apply Trend-Based Forecasting for Inventory Planning 
 -Forecasting highlights stable demand with recurring seasonal peaks. 
 Use trend-based forecasts to guide high-level inventory allocation and supplier negotiations, while allowing operational teams to adjust tactically based on short-term demand signals. 
+
+---
+
+## 📈 Skills Demonstrated
+- Data cleaning & aggregation
+- Business-oriented analysis
+- Excel pivot tables
+- Power BI dashboards
+- Insight storytelling
